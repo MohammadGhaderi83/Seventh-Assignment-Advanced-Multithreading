@@ -1,119 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="sbu.cs.PrioritySimulator.RunnerTest" tests="100" skipped="0" failures="0" errors="0" timestamp="2023-05-12T09:23:01" hostname="DESKTOP-1NN07TT" time="2.242">
+<testsuite name="sbu.cs.PrioritySimulator.RunnerTest" tests="100" skipped="0" failures="0" errors="0" timestamp="2023-05-12T13:03:13" hostname="DESKTOP-1NN07TT" time="0.671">
   <properties/>
-  <testcase name="priorityThreads 1/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.094"/>
-  <testcase name="priorityThreads 2/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.021"/>
-  <testcase name="priorityThreads 3/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.015"/>
-  <testcase name="priorityThreads 4/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.02"/>
-  <testcase name="priorityThreads 5/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.037"/>
-  <testcase name="priorityThreads 6/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.04"/>
-  <testcase name="priorityThreads 7/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.045"/>
-  <testcase name="priorityThreads 8/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.032"/>
-  <testcase name="priorityThreads 9/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.036"/>
-  <testcase name="priorityThreads 10/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.033"/>
-  <testcase name="priorityThreads 11/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.033"/>
-  <testcase name="priorityThreads 12/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.033"/>
-  <testcase name="priorityThreads 13/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.032"/>
-  <testcase name="priorityThreads 14/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.034"/>
-  <testcase name="priorityThreads 15/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.035"/>
-  <testcase name="priorityThreads 16/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.033"/>
-  <testcase name="priorityThreads 17/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.035"/>
-  <testcase name="priorityThreads 18/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.028"/>
-  <testcase name="priorityThreads 19/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.016"/>
-  <testcase name="priorityThreads 20/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.016"/>
-  <testcase name="priorityThreads 21/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.023"/>
-  <testcase name="priorityThreads 22/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.014"/>
-  <testcase name="priorityThreads 23/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.014"/>
-  <testcase name="priorityThreads 24/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.024"/>
-  <testcase name="priorityThreads 25/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.014"/>
-  <testcase name="priorityThreads 26/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.012"/>
-  <testcase name="priorityThreads 27/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.027"/>
-  <testcase name="priorityThreads 28/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.016"/>
-  <testcase name="priorityThreads 29/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.012"/>
-  <testcase name="priorityThreads 30/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.023"/>
-  <testcase name="priorityThreads 31/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.018"/>
-  <testcase name="priorityThreads 32/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.014"/>
-  <testcase name="priorityThreads 33/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.017"/>
-  <testcase name="priorityThreads 34/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.019"/>
-  <testcase name="priorityThreads 35/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.013"/>
-  <testcase name="priorityThreads 36/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.01"/>
-  <testcase name="priorityThreads 37/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.027"/>
-  <testcase name="priorityThreads 38/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.021"/>
-  <testcase name="priorityThreads 39/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.02"/>
-  <testcase name="priorityThreads 40/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.024"/>
-  <testcase name="priorityThreads 41/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.028"/>
-  <testcase name="priorityThreads 42/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.023"/>
-  <testcase name="priorityThreads 43/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.022"/>
-  <testcase name="priorityThreads 44/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.023"/>
-  <testcase name="priorityThreads 45/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.016"/>
-  <testcase name="priorityThreads 46/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.014"/>
-  <testcase name="priorityThreads 47/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.014"/>
-  <testcase name="priorityThreads 48/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.011"/>
-  <testcase name="priorityThreads 49/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.024"/>
-  <testcase name="priorityThreads 50/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.031"/>
-  <testcase name="priorityThreads 51/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.023"/>
-  <testcase name="priorityThreads 52/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.014"/>
-  <testcase name="priorityThreads 53/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.012"/>
-  <testcase name="priorityThreads 54/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.01"/>
-  <testcase name="priorityThreads 55/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.012"/>
-  <testcase name="priorityThreads 56/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.012"/>
-  <testcase name="priorityThreads 57/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.012"/>
-  <testcase name="priorityThreads 58/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.011"/>
-  <testcase name="priorityThreads 59/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.008"/>
-  <testcase name="priorityThreads 60/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.007"/>
-  <testcase name="priorityThreads 61/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.008"/>
-  <testcase name="priorityThreads 62/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.007"/>
-  <testcase name="priorityThreads 63/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.012"/>
-  <testcase name="priorityThreads 64/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.012"/>
-  <testcase name="priorityThreads 65/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.01"/>
-  <testcase name="priorityThreads 66/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.008"/>
-  <testcase name="priorityThreads 67/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.026"/>
-  <testcase name="priorityThreads 68/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.025"/>
-  <testcase name="priorityThreads 69/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.02"/>
-  <testcase name="priorityThreads 70/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.019"/>
-  <testcase name="priorityThreads 71/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.019"/>
-  <testcase name="priorityThreads 72/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.019"/>
-  <testcase name="priorityThreads 73/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.018"/>
-  <testcase name="priorityThreads 74/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.019"/>
-  <testcase name="priorityThreads 75/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.018"/>
-  <testcase name="priorityThreads 76/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.022"/>
-  <testcase name="priorityThreads 77/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.013"/>
-  <testcase name="priorityThreads 78/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.01"/>
-  <testcase name="priorityThreads 79/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.023"/>
-  <testcase name="priorityThreads 80/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.019"/>
-  <testcase name="priorityThreads 81/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.019"/>
-  <testcase name="priorityThreads 82/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.022"/>
-  <testcase name="priorityThreads 83/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.019"/>
-  <testcase name="priorityThreads 84/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.02"/>
-  <testcase name="priorityThreads 85/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.02"/>
-  <testcase name="priorityThreads 86/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.02"/>
-  <testcase name="priorityThreads 87/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.013"/>
-  <testcase name="priorityThreads 88/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.012"/>
-  <testcase name="priorityThreads 89/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.022"/>
-  <testcase name="priorityThreads 90/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.013"/>
-  <testcase name="priorityThreads 91/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.01"/>
-  <testcase name="priorityThreads 92/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.011"/>
-  <testcase name="priorityThreads 93/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.011"/>
-  <testcase name="priorityThreads 94/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.011"/>
-  <testcase name="priorityThreads 95/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.022"/>
-  <testcase name="priorityThreads 96/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.024"/>
-  <testcase name="priorityThreads 97/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.024"/>
-  <testcase name="priorityThreads 98/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.024"/>
-  <testcase name="priorityThreads 99/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.028"/>
-  <testcase name="priorityThreads 100/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.021"/>
-  <system-out><![CDATA[[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-3
+  <testcase name="priorityThreads 1/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.039"/>
+  <testcase name="priorityThreads 2/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.008"/>
+  <testcase name="priorityThreads 3/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.008"/>
+  <testcase name="priorityThreads 4/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 5/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.007"/>
+  <testcase name="priorityThreads 6/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 7/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.01"/>
+  <testcase name="priorityThreads 8/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.008"/>
+  <testcase name="priorityThreads 9/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.007"/>
+  <testcase name="priorityThreads 10/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.008"/>
+  <testcase name="priorityThreads 11/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.007"/>
+  <testcase name="priorityThreads 12/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 13/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 14/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.007"/>
+  <testcase name="priorityThreads 15/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 16/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 17/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 18/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.007"/>
+  <testcase name="priorityThreads 19/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.01"/>
+  <testcase name="priorityThreads 20/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 21/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 22/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 23/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 24/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 25/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 26/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 27/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 28/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 29/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 30/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.008"/>
+  <testcase name="priorityThreads 31/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 32/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 33/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 34/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 35/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 36/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 37/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 38/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.003"/>
+  <testcase name="priorityThreads 39/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 40/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 41/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 42/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 43/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 44/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 45/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 46/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 47/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 48/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 49/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 50/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 51/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 52/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 53/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 54/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 55/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 56/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.003"/>
+  <testcase name="priorityThreads 57/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.003"/>
+  <testcase name="priorityThreads 58/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 59/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 60/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 61/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.003"/>
+  <testcase name="priorityThreads 62/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 63/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 64/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 65/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 66/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 67/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 68/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 69/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 70/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 71/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 72/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 73/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 74/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 75/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 76/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <testcase name="priorityThreads 77/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 78/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 79/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 80/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 81/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 82/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 83/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 84/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 85/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 86/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 87/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 88/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 89/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.005"/>
+  <testcase name="priorityThreads 90/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 91/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 92/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 93/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 94/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.003"/>
+  <testcase name="priorityThreads 95/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 96/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 97/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 98/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 99/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.004"/>
+  <testcase name="priorityThreads 100/100" classname="sbu.cs.PrioritySimulator.RunnerTest" time="0.006"/>
+  <system-out><![CDATA[[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-7
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-8
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-3
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-12
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-9
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-14
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-10
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-15
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-13
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-11
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-6
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-4
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-5
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-6
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-7
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-8
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-9
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-10
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-11
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-12
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-13
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-14
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-15
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-16
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-17
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-18
@@ -127,27 +127,27 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-26
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-27
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-28
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-29
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-30
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-31
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-29
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-32
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-33
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-34
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-35
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-36
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-37
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-38
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-37
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-39
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-40
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-41
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-40
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-42
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-43
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-44
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-45
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-46
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-44
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-47
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-48
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-49
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-46
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-50
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-51
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-52
@@ -159,12 +159,12 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-58
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-59
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-60
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-61
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-62
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-63
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-61
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-64
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-65
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-63
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-66
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-65
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-67
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-68
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-69
@@ -174,26 +174,26 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-73
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-74
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-75
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-76
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-77
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-78
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-76
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-79
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-80
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-81
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-82
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-78
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-83
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-82
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-84
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-81
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-85
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-86
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-87
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-88
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-87
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-89
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-90
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-91
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-92
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-93
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-94
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-95
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-94
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-96
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-97
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-98
@@ -202,9 +202,9 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-101
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-102
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-103
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-106
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-104
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-105
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-106
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-107
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-108
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-109
@@ -219,21 +219,21 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-118
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-119
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-120
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-121
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-122
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-123
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-121
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-124
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-125
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-126
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-127
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-125
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-128
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-129
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-130
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-131
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-132
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-130
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-133
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-134
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-135
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-134
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-136
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-137
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-138
@@ -253,31 +253,31 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-152
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-153
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-154
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-155
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-156
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-157
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-155
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-158
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-159
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-160
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-157
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-161
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-162
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-159
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-163
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-164
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-165
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-166
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-164
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-160
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-162
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-167
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-168
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-169
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-170
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-171
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-168
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-172
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-173
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-174
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-175
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-176
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-177
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-178
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-179
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-178
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-180
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-181
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-182
@@ -296,23 +296,23 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-195
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-196
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-197
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-198
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-199
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-200
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-198
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-204
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-203
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-205
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-201
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-202
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-203
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-204
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-205
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-206
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-207
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-208
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-209
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-208
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-210
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-211
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-212
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-213
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-214
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-213
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-215
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-216
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-217
@@ -325,15 +325,15 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-224
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-225
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-226
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-227
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-228
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-227
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-229
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-230
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-231
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-230
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-232
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-233
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-234
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-235
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-234
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-236
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-237
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-238
@@ -348,9 +348,9 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-247
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-248
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-249
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-250
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-251
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-252
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-250
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-253
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-254
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-255
@@ -359,28 +359,28 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-258
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-259
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-260
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-261
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-262
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-263
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-261
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-264
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-263
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-265
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-266
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-267
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-266
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-268
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-269
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-270
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-269
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-271
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-272
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-273
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-272
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-274
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-275
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-276
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-277
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-278
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-276
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-279
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-280
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-281
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-282
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-280
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-283
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-284
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-285
@@ -388,25 +388,25 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-287
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-288
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-289
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-290
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-291
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-290
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-292
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-293
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-294
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-295
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-296
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-297
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-298
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-297
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-299
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-300
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-301
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-302
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-303
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-304
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-305
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-303
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-306
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-307
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-308
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-307
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-309
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-310
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-311
@@ -423,8 +423,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-322
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-323
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-324
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-325
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-326
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-325
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-327
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-328
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-329
@@ -441,8 +441,8 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-340
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-341
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-342
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-343
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-344
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-343
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-345
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-346
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-347
@@ -493,17 +493,17 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-392
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-393
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-394
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-395
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-396
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-395
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-397
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-398
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-399
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-400
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-401
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-402
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-403
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-404
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-402
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-405
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-404
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-406
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-407
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-408
@@ -548,20 +548,20 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-447
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-448
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-449
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-450
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-451
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-450
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-452
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-453
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-454
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-457
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-455
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-456
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-457
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-458
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-459
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-458
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-460
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-461
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-462
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-463
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-462
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-464
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-465
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-466
@@ -571,17 +571,17 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-470
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-471
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-472
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-475
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-473
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-474
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-475
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-476
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-477
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-478
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-477
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-479
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-480
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-481
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-482
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-483
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-482
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-484
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-485
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-486
@@ -609,8 +609,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-508
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-509
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-510
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-511
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-512
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-511
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-513
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-514
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-515
@@ -619,8 +619,8 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-518
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-519
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-520
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-521
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-522
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-521
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-523
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-524
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-525
@@ -642,23 +642,23 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-541
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-542
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-543
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-544
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-545
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-546
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-547
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-544
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-548
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-546
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-545
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-549
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-552
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-550
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-551
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-552
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-553
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-554
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-555
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-556
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-557
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-558
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-559
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-560
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-559
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-561
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-562
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-563
@@ -675,24 +675,24 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-574
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-575
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-576
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-577
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-578
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-579
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-580
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-577
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-581
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-582
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-583
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-584
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-585
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-586
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-584
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-587
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-586
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-588
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-589
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-590
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-591
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-592
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-593
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-594
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-592
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-595
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-596
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-597
@@ -700,8 +700,8 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-599
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-600
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-601
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-602
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-603
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-602
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-604
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-605
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-606
@@ -725,8 +725,8 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-624
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-625
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-626
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-627
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-628
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-627
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-629
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-630
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-631
@@ -740,30 +740,30 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-639
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-640
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-641
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-642
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-643
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-642
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-644
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-645
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-646
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-647
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-646
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-648
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-649
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-650
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-651
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-652
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-651
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-653
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-654
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-655
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-656
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-657
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-656
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-658
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-659
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-660
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-659
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-661
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-662
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-663
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-664
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-665
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-664
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-666
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-667
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-668
@@ -775,15 +775,15 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-674
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-675
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-676
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-677
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-678
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-677
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-679
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-680
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-681
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-682
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-683
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-684
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-685
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-683
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-686
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-687
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-688
@@ -820,8 +820,8 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-719
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-720
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-721
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-722
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-723
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-722
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-724
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-725
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-726
@@ -829,16 +829,16 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-728
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-729
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-730
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-731
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-732
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-731
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-733
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-734
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-735
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-734
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-736
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-737
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-738
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-739
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-740
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-737
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-738
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-741
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-742
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-743
@@ -855,8 +855,8 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-754
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-755
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-756
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-757
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-758
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-757
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-759
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-760
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-761
@@ -869,9 +869,9 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-768
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-769
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-770
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-773
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-771
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-772
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-773
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-774
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-775
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-776
@@ -924,9 +924,9 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-823
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-824
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-825
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-826
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-827
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-828
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-826
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-829
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-830
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-831
@@ -994,8 +994,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-893
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-894
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-895
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-896
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-897
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-896
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-898
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-899
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-900
@@ -1008,8 +1008,8 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-907
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-908
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-909
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-910
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-911
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-910
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-912
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-913
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-914
@@ -1129,10 +1129,10 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1028
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1029
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1030
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1031
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1032
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1033
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1034
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1033
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1031
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1035
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1036
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1037
@@ -1169,9 +1169,9 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1068
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1069
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1070
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1071
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1072
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1073
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1071
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1074
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1075
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1076
@@ -1225,11 +1225,11 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1124
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1125
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1126
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1127
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1128
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1127
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1129
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1130
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1131
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1130
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1132
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1133
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1134
@@ -1252,8 +1252,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1151
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1152
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1153
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1154
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1155
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1154
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1156
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1157
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1158
@@ -1303,8 +1303,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1202
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1203
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1204
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1205
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1206
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1205
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1207
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1208
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1209
@@ -1362,14 +1362,14 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1261
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1262
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1263
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1264
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1265
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1264
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1266
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1267
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1268
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1269
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1270
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1271
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1270
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1269
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1272
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1273
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1274
@@ -1405,11 +1405,11 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1304
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1305
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1306
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1307
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1308
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1307
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1309
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1310
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1311
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1310
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1312
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1313
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1314
@@ -1417,8 +1417,8 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1316
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1317
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1318
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1319
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1320
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1319
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1321
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1322
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1323
@@ -1431,22 +1431,22 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1330
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1331
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1332
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1333
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1334
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1333
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1335
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1336
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1337
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1338
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1339
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1340
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1339
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1341
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1342
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1343
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1344
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1345
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1346
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1347
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1348
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1347
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1349
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1350
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1351
@@ -1470,8 +1470,8 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1369
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1370
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1371
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1372
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1373
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1372
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1374
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1375
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1376
@@ -1553,14 +1553,14 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1452
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1453
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1454
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1455
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1456
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1455
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1457
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1458
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1459
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1460
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1461
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1462
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1461
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1463
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1464
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1465
@@ -1592,8 +1592,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1491
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1492
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1493
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1494
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1495
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1494
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1496
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1497
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1498
@@ -1624,8 +1624,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1523
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1524
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1525
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1526
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1527
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1526
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1528
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1529
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1530
@@ -1637,12 +1637,12 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1536
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1537
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1538
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1539
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1540
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1541
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1542
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1539
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1543
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1544
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1542
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1541
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1545
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1546
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1547
@@ -1687,14 +1687,14 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1586
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1587
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1588
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1589
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1590
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1589
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1591
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1592
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1593
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1594
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1595
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1596
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1595
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1597
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1598
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1599
@@ -1718,10 +1718,10 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1617
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1618
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1619
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1620
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1621
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1622
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1620
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1623
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1621
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1624
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1625
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1626
@@ -1743,13 +1743,13 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1642
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1643
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1644
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1645
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1646
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1645
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1647
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1648
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1649
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1650
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1651
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1648
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1652
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1653
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1654
@@ -1789,8 +1789,8 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1688
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1689
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1690
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1691
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1692
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1691
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1693
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1694
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1695
@@ -1838,15 +1838,15 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1737
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1738
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1739
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1740
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1741
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1740
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1742
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1743
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-1744
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1745
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1746
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1747
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1748
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1747
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1749
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1750
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1751
@@ -1858,8 +1858,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1757
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1758
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1759
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1760
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1761
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1760
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1762
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1763
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1764
@@ -1983,12 +1983,12 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1882
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1883
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1884
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1885
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1886
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1885
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1887
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1888
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1889
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1890
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1889
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1891
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1892
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1893
@@ -2010,8 +2010,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1909
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1910
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1911
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1912
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1913
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-1912
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1914
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1915
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-1916
@@ -2106,8 +2106,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2005
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2006
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2007
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2008
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2009
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2008
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2010
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2011
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2012
@@ -2126,9 +2126,9 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2025
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2026
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2027
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2028
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2029
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2030
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2028
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2031
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2032
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2033
@@ -2241,8 +2241,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2140
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2141
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2142
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2143
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2144
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2143
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2145
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2146
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2147
@@ -2311,9 +2311,9 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2210
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2211
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2212
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2213
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2214
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2215
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2213
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2216
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2217
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2218
@@ -2339,13 +2339,13 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2238
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2239
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2240
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2241
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2242
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2241
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2243
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2244
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2245
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2246
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2247
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2246
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2248
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2249
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2250
@@ -2372,10 +2372,10 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2271
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2272
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2273
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2274
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2275
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2276
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2274
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2277
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2276
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2278
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2279
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2280
@@ -2391,8 +2391,8 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2290
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2291
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2292
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2293
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2294
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2293
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2295
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2296
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2297
@@ -2524,8 +2524,8 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2423
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2424
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2425
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2426
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2427
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2426
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2428
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2429
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2430
@@ -2573,8 +2573,8 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2472
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2473
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2474
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2475
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2476
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2475
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2477
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2478
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2479
@@ -2599,8 +2599,8 @@
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2498
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2499
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2500
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2501
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2502
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2501
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2503
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2504
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2505
@@ -2630,18 +2630,18 @@
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2529
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2530
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2531
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2532
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2533
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2532
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2534
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2535
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2536
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2535
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2537
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2538
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2539
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2540
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2541
-[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2542
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2543
+[x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2542
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2544
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2545
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2546
@@ -2671,15 +2671,15 @@
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2570
 [x] From sbu.cs.PrioritySimulator.BlueThread class: hi finished blacks, hi whites!. thread_name: Thread-2571
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2572
-[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2573
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2574
+[x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2573
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2575
 [x] From sbu.cs.PrioritySimulator.WhiteThread class: hi finished blacks, hi finished blues!. thread_name: Thread-2576
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2577
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2578
-[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2579
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2580
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2578
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2581
+[x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2579
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2582
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2583
 [x] From sbu.cs.PrioritySimulator.BlackThread class: hi blues, hi whites!. thread_name: Thread-2584
