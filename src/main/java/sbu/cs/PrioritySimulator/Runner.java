@@ -39,6 +39,7 @@ public class Runner {
             BlackThread blackThread = new BlackThread();
             colorThreads.add(blackThread);
             blackThread.start();
+            blackThread.join();
         }
 
         // TODO
@@ -47,6 +48,7 @@ public class Runner {
             BlueThread blueThread = new BlueThread();
             colorThreads.add(blueThread);
             blueThread.start();
+            blueThread.join();
         }
 
         // TODO
@@ -55,6 +57,7 @@ public class Runner {
             WhiteThread whiteThread = new WhiteThread();
             colorThreads.add(whiteThread);
             whiteThread.start();
+            whiteThread.join();
         }
 
         // TODO
